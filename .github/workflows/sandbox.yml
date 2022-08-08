@@ -37,3 +37,6 @@ jobs:
           echo
           echo dot net installed?
           dotnet --version
+          echo
+          echo list .github directory
+          ls -a .github
