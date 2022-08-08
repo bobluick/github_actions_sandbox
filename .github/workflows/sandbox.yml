@@ -39,4 +39,7 @@ jobs:
           dotnet --version
           echo
           echo list .github directory
-          ls -a .github
+          ls -a .github/workflows
+          echo present directory
+          cwd
+          
