@@ -41,5 +41,5 @@ jobs:
           echo list .github directory
           ls -a .github/workflows
           echo present directory
-          cwd
+          pwd
           
